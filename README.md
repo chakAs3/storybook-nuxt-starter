@@ -27,7 +27,19 @@ I thought for moment about creating a clear document for users to get this worki
   
 - if you have your existing nuxt project run `npx storybook-nuxt init` to install,config and run storybook
 
-GOOD LUCK 🤎
+Happy coding! 🤎
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and modify it according to your needs.
+
+## Contacts :
+
+🔖 Mail: javachakir@gmail.com
+
+💬 Discord: ChakAs3
+
+🐦‍⬛ Twitter: [@ChakirQatab](https://twitter.com/ChakirQatab)
 
 
    
