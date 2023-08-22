@@ -17,7 +17,7 @@ This demo contains:
 
 I thought for moment about creating a clear document for users to get this working.
 
-### Bref run 
+... Bref run 
 
 `pnpm i & pnpm storybook`
 
@@ -27,7 +27,7 @@ I thought for moment about creating a clear document for users to get this worki
   
 - if you have your existing nuxt project run `npx storybook-nuxt init` to install,config and run storybook
 
-Happy coding! 🤎
+# Happy coding! 🤎
 
 ## License
 
